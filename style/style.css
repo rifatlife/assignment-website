@@ -1,0 +1,36 @@
+    body{
+        font-family: 'Mulish', sans-serif;
+    }
+
+
+    .title-text {
+        color: #FF5400;
+        font-size: 36px;
+        font-style: normal;
+        font-weight: 800;
+    }
+    .content{
+        color: black;
+    }
+    nav{
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+    nav > ul{
+        display: flex;
+    }
+    nav li{
+        list-style: none;
+        margin-right: 44px;
+    }
+    nav a{
+        text-decoration: none;
+        color: #424247;
+    }
+    .text-home{
+        color: #FF5400;
+    }
+    .section-text{
+        /* background-image: url(../Images/Group\ 13\ \(1\)\ \(1\).png) */
+    }
